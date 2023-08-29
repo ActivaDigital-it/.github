@@ -1,4 +1,4 @@
-![ActivaDigital Logo](activa_digital_logo_chiaro.png)
+![ActivaDigital Logo](https://github.com/ActivaDigital-it/.github/edit/main/profile/activa_digital_logo_chiaro.png?raw=true)
 
 # Activa Digital
 
