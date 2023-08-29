@@ -1,3 +1,5 @@
+![ActivaDigital Logo](activa_digital_logo_chiaro.png)
+
 # Activa Digital
 
 ## Chi Siamo
